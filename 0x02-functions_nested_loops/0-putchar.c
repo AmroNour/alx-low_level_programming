@@ -1,6 +1,4 @@
-#ifndef MAIN_H
-#define MAIN_H
-#include "holberton.h"
+#include "main.h"
 
 /**
  * main - prints the string "_putchar" from a character array
